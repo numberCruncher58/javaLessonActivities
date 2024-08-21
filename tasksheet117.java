@@ -28,7 +28,7 @@ public class tasksheet117{
 		
 		// compare first if they're all have the same number
 		if ((arrayOfNumbers[0] == arrayOfNumbers[1]) && (arrayOfNumbers[1] == arrayOfNumbers[2])){			
-			System.out.print("All numbers are of equal value.");
+			System.out.print("All numbers are equal.");
 		} else {																							
 		// if not then find the largest number and print it on the console
 			if (arrayOfNumbers[1] > arrayOfNumbers[0]){
