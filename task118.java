@@ -1,3 +1,10 @@
+/*
+
+	T A S K  1 1 8
+	2 3  /  0 8  / 2 4
+ 
+*/
+
 public class task118{
 
 	public static void main(String[] args) {
