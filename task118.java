@@ -17,23 +17,19 @@ public class task118{
 			958, 609, 842, 451, 688, 753, 854, 685, 93, 857, 440, 380, 126, 721, 328, 753, 470,
 			743, 527};
 			
-			System.out.print("[");
-			
 			for (int valueInArray : numbers){
 				
 				// break the loop when encountered value 237
 				if (valueInArray == 237) {
-					System.out.print("]");
 					break;
 				}
 				
 				if ((valueInArray % 2) == 0){
-					System.out.print(valueInArray + " ");
+					System.out.println(valueInArray);
 				}
 				
 			}
 			
-			System.out.println();
-			
 	}
+	
 };
