@@ -34,9 +34,9 @@ class C extends abstractClass {
 		System.out.println("C's implementation of abstractMethod.");
 	}
 	
-	@Override void concreteMethod(){
+	/*@Override void concreteMethod(){
 		System.out.println("This is C's concrete method.");
-	}
-	
+	}*/
+
 }
 
